@@ -32,10 +32,10 @@ D. Một website chứa nhiều trang web có liên quan đến nhau
 
 Câu 1.4 Phát biểu nào không đúng khi nói về website và ứng dụng web?
 
-A. Không có sự phân biệt rõ ràng giữa website và ứng dụng web
+**A. Không có sự phân biệt rõ ràng giữa website và ứng dụng web**
 
 B. Một website và ứng dụng web có một địa chỉ URL để truy cập
 
 C. Website và ứng dụng web hoạt động dựa trên mô hình client-server
 
-**D. Chỉ cần sử dụng HTML và CSS là có thể tạo ra được ứng dụng web**
+D. Chỉ cần sử dụng HTML và CSS là có thể tạo ra được ứng dụng web

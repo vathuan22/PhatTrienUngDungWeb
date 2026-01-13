@@ -9,3 +9,7 @@
 - [Bài 4. Web back-end (4) - Ứng dụng web bán hàng](Bai4/index.md)
 
 - [Bài 5. Web back-end (5) - Nodejs và NPM](Bai5/index.md)
+
+- [Bài 6. Web back-end (6) - Cấu hình Web server trong Nodejs](Bai6/index.md)
+
+- [Bài 7. Web back-end (7) - Local và Global, Dependencies và devDependencies](Bai7/index.md)

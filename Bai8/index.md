@@ -87,11 +87,10 @@ C. Mỗi lệnh phải hoàn thành trước khi lệnh tiếp theo được th�
 D. Phù hợp với các tác vụ đơn giản như tính toán cơ bản không cần chờ đợi.
 
 Câu 8.3: Hàm ẩn danh (anonymous function) trong JavaScript là gì? Phát biểu nào sau đây không đúng?
-
-**A. Hàm ẩn danh có thể truy cập biến trong phạm vi bao quanh nhờ closure.**
+A. Hàm ẩn danh có thể truy cập biến trong phạm vi bao quanh nhờ closure.
 
 B. Hàm ẩn danh là hàm không có tên khi được định nghĩa.
 
 C. Hàm ẩn danh thường được gán vào biến hoặc truyền làm tham số cho hàm khác.
 
-D. Hàm ẩn danh được "nâng lên" (hoisted) giống như hàm khai báo (function declaration).
+**D. Hàm ẩn danh được "nâng lên" (hoisted) giống như hàm khai báo (function declaration).**

@@ -13,3 +13,5 @@
 - [Bài 6. Web back-end (6) - Cấu hình Web server trong Nodejs](Bai6/index.md)
 
 - [Bài 7. Web back-end (7) - Local và Global, Dependencies và devDependencies](Bai7/index.md)
+
+- [Bài 8. Web back-end (8) - Lập trình đồng bộ, hàm ẩn danh trong JavaScript](Bai8/index.md)

@@ -20,4 +20,4 @@ B. NPM là công cụ để quản lý các thư viện dùng trong một ứng 
 
 C. NPM được cài đặt mặc định khi cài đặt Nodejs
 
-D. NPM gồm 3 thành phần: website, GUI và registry
+**D. NPM gồm 3 thành phần: website, GUI và registry**

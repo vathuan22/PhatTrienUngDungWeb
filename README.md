@@ -15,3 +15,5 @@
 - [Bài 7. Web back-end (7) - Local và Global, Dependencies và devDependencies](Bai7/index.md)
 
 - [Bài 8. Web back-end (8) - Lập trình đồng bộ, hàm ẩn danh trong JavaScript](Bai8/index.md)
+
+- [Bài 9. Web back-end (9) - Hàm mũi tên, lập trình bất đồng bộ trong JavaScript](Bai9/index.md)

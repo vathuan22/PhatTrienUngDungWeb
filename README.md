@@ -17,3 +17,5 @@
 - [Bài 8. Web back-end (8) - Lập trình đồng bộ, hàm ẩn danh trong JavaScript](Bai8/index.md)
 
 - [Bài 9. Web back-end (9) - Hàm mũi tên, lập trình bất đồng bộ trong JavaScript](Bai9/index.md)
+
+- [Bài 10. Web back-end (10) - Hàm callback](Bai10/index.md)

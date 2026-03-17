@@ -30,4 +30,4 @@
 
 - [Bài 15. Web back-end (15) - Event-driven, Route handler và Middleware trong Express](Bai15/index.md)
 
-- [Bài 16. Web back-end (16) - Lập trình trang web động](Bai16/)
+- [Bài 16. Web back-end (16) - Lập trình trang web động](Bai16/index.md)

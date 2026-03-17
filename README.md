@@ -19,3 +19,15 @@
 - [Bài 9. Web back-end (9) - Hàm mũi tên, lập trình bất đồng bộ trong JavaScript](Bai9/index.md)
 
 - [Bài 10. Web back-end (10) - Hàm callback](Bai10/index.md)
+
+- [Bài 11. Web back-end (11) - Lập trình giao diện](Bai11/index.md)
+
+- [Bai 12. Web back-end (12) - Ứng dụng client-server](Bai12/index.md)
+
+- [Bai 13. Web back-end (13) - Lập trình client-server](Bai13/index.md)
+
+- [Bai 14. Web back-end (14) - Lập trình hướng sự kiện](Bai14/index.md)
+
+- [Bài 15. Web back-end (15) - Event-driven, Route handler và Middleware trong Express](Bai15/index.md)
+
+- [Bài 16. Web back-end (16) - Lập trình trang web động](Bai16/)

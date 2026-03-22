@@ -31,3 +31,11 @@
 - [Bài 15. Web back-end (15) - Event-driven, Route handler và Middleware trong Express](Bai15/index.md)
 
 - [Bài 16. Web back-end (16) - Lập trình trang web động](Bai16/index.md)
+
+- [Bài 17. Web back-end (17) - Express-handlebars](Bai17/index.md)
+
+- [Bài 18. Web back-end (18) - Tạo giao diện các trang con](Bai18/index.md)
+
+- [Bài 19. Web back-end (19) - Thiết kế cơ sở dữ liệu](Bai19/index.md)
+
+- [Bài 20. Web back-end (20) - Làm việc với Postgresql](Bai20/index.md)

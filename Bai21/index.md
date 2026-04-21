@@ -14,7 +14,7 @@ A. Code First là phương pháp định nghĩa mô hình dữ liệu trong mã 
 
 B. Database First là phương pháp thiết kế cơ sở dữ liệu trước, sau đó ORM sẽ sinh ra các mô hình trong mã nguồn dựa trên schema đã có.
 
-C. Cả Code First và Database First đều bỏ qua vai trò của ORM và cho phép lập trình viên tương tác trực tiếp với cơ sở dữ liệu bằng SQL.
+**C. Cả Code First và Database First đều bỏ qua vai trò của ORM và cho phép lập trình viên tương tác trực tiếp với cơ sở dữ liệu bằng SQL.**
 
 D. Code First thường phù hợp với các dự án mới, trong khi Database First thích hợp với các dự án làm việc trên cơ sở dữ liệu đã tồn tại.
 
@@ -22,7 +22,7 @@ Câu hỏi 21.2 Phát biểu nào sau đây KHÔNG đúng về ORM (Object-Relat
 
 A. ORM là một kỹ thuật lập trình giúp ánh xạ giữa các đối tượng trong mã nguồn và các bảng trong cơ sở dữ liệu quan hệ.
 
-B. ORM làm tăng độ phức tạp của mã nguồn và giảm hiệu suất phát triển ứng dụng.
+**B. ORM làm tăng độ phức tạp của mã nguồn và giảm hiệu suất phát triển ứng dụng.**
 
 C. ORM cho phép lập trình viên thao tác với cơ sở dữ liệu bằng cú pháp của ngôn ngữ lập trình thay vì viết câu lệnh SQL trực tiếp.
 
@@ -30,7 +30,7 @@ D. Sequelize (Node.js) và Django ORM (Python) là những ví dụ về các OR
 
 Câu hỏi 21.3 Bốn thư mục chính được tạo ra bởi lệnh sequelize init là config, models, migrations, và seeders. Phát biểu nào sau đây về mục đích của các thư mục này là KHÔNG đúng?
 
-A. Thư mục migrations chứa các tập tin SQL script để thực hiện các thay đổi lược đồ cơ sở dữ liệu theo thời gian.
+**A. Thư mục migrations chứa các tập tin SQL script để thực hiện các thay đổi lược đồ cơ sở dữ liệu theo thời gian.**
 
 B. Thư mục config chứa các tập tin cấu hình kết nối đến cơ sở dữ liệu cho các môi trường phát triển, kiểm thử và sản xuất.
 

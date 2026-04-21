@@ -39,3 +39,7 @@
 - [Bài 19. Web back-end (19) - Thiết kế cơ sở dữ liệu](Bai19/index.md)
 
 - [Bài 20. Web back-end (20) - Làm việc với Postgresql](Bai20/index.md)
+
+- [Bai 21- Web back-end (21) - Lập trình với cơ sở dữ liệu](Bai21/index.md)
+
+- [Bai 22+23 Tạo cơ sở dữ liệu bằng Sequelize- Tạo các bảng và mối quan hệ ](Bai22+23/index.md)
